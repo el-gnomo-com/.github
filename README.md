@@ -6,6 +6,6 @@
 
 # Links
 
-- ### [🌍 Website](https://webzignet.com) The Webzignet website.
+- ### [🌍 Website](https://el-gnomo.com) The Webzignet website.
 - ### [🔧 Support](mailto:support@webzignet.com).
 - ### [✉️ Contact](mailto:contact@webzignet.com).
